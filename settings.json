@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "https://azeeyysanarchy.aternos.me",
+    "port": 46828,
     "version": "",
     "try-creative": false
   },
